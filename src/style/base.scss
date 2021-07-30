@@ -1,5 +1,9 @@
 
 body {
     margin: 0px;
-    font-family: 'Indie Flower', cursive;
-}
+    font-family: 'Source Code Pro', monospace;}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+} 
